@@ -1,1 +1,1 @@
-Demo: https://v0.dev/chat/cricket-player-tracker-nV3Yulkz3Cn
+Demo: https://v0-cricket-player-tracker.vercel.app
